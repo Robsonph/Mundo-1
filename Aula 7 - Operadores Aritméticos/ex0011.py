@@ -15,4 +15,3 @@ tinta_necessaria = area / 2
 print(
     "Para pintar essa parede, você precisará de {}L de tinta.".format(tinta_necessaria)
 )
-# Conferir a resposta porque não sei se entendi o problema. O velho Guilherme continua o mesmo, só que agora com ímpeto suficiente para continuar
